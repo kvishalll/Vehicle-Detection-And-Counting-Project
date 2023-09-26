@@ -1,4 +1,4 @@
-# #  Project Title:
+#  Project Title:
 # Vehicle-Detection-And-Counting-Project
 
 # Introduction:
